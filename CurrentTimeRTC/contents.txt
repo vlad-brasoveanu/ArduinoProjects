@@ -1,0 +1,6 @@
+Project requires:
+1. Arduino UNO R3
+2. 9V battery and adapter
+3. RTC DS-1307 module
+4. LCD 16x2 display
+5. 2 10K potentiometers for the display
