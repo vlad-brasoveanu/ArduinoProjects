@@ -1,0 +1,6 @@
+Project requires:
+1. Arduino UNO R3
+2. HC-SR04 ultrasonic sensor
+3. Active buzzer
+4. 3x220ohm resistor
+5. 3x LED(R/G/B)
