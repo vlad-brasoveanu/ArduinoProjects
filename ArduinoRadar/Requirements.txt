@@ -1,0 +1,5 @@
+Project requires:
+1. Arduino Uno Board
+2. Micro servo motor
+3. HC-SR04 ultrasonic sensor
+4. 100 microF capacitor (optional)
